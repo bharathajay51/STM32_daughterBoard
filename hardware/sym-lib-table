@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name stm32_breakout)(type Legacy)(uri D:/githubRepos/STM32_daughterBoard/hardware/KiCAD_libs/stm32_breakout.lib)(options "")(descr ""))
+)
